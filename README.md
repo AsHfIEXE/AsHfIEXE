@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I think I so dumb and stupid but still love my work**
 
+  [Recent Listened Song](https://spotify-recently-played-readme.vercel.app/api?user=lydqloj5trmy0rb04nrr82b84&unique={true|1|on|yes})
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
