@@ -6,14 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfiexe" alt="ashfiexe" /></a> </p>
 
 
-
-### **Salehin Ashfi**  
-
-Salehin Ashfi is a cybersecurity professional, software developer, and sci-fi author with a passion for pushing the boundaries of technology and storytelling. With over three years of hands-on experience in IT and cybersecurity, he specializes in ethical hacking, web automation, and network security. He actively participates in bug bounty programs, uncovering vulnerabilities to strengthen digital security.  
-
-Beyond cybersecurity, Salehin is a dedicated developer, working on projects involving web scraping, AI-driven applications, and automation tools. His technical expertise extends to integrating AI with practical solutions, including TTS projects and real-time web integrations.  
-
-As an author, Salehin crafts intricate sci-fi narratives that explore time, existence, and human resilience. His books, *ChronoGenesis: The Shattered Future* and *Shadow Behind the Eternity: A Sci-Fi Thriller*, reflect his deep storytelling approach, blending philosophy with high-stakes adventure.  
+Nothng to read about me
 
 🌐 Portfolio: [Salehin Ashfi](https://salehinashfi.rf.gd)
 📚 Explore his books: [My Books](https://books2read.com/salehinashfi)
