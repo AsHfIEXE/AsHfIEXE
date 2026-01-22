@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfiexe&label=Profile%20views&color=0e75b6&style=flat" alt="ashfiexe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfiexe" alt="ashfiexe" /></a> </p>
-
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K01SS4QX)
 
 Nothng to read about me
 
