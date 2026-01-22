@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfiexe&label=Profile%20views&color=0e75b6&style=flat" alt="ashfiexe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfiexe" alt="ashfiexe" /></a> </p>
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K01SS4QX)
-
 Nothng to read about me
 
 🌐 Portfolio: [Salehin Ashfi](https://salehinashfi.rf.gd)
@@ -36,6 +34,8 @@ Nothng to read about me
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfiexe&show_icons=true&locale=en&layout=compact" alt="ashfiexe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfiexe&show_icons=true&locale=en" alt="ashfiexe" /></p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K01SS4QX)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfiexe&" alt="ashfiexe" /></p>
 
