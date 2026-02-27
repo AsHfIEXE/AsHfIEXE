@@ -1,8 +1,13 @@
-<!-- ========================= GitHub Trophies ========================= -->
 
 
 <h1 align="center">Hi, I'm Salehin Ashfi</h1>
 <h3 align="center">Programmer • Security Researcher • Writer</h3>
+
+<!-- ========================= GitHub Trophies ========================= -->
+
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ashfiexe&theme=radical&no-frame=true&margin-w=4&titles=Stars,Commits,Issues,PullRequest,Repositories,Experience" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashfiexe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -45,6 +50,7 @@ I build, break, fix, and write—sometimes all at once.
 </p>
 
 ---
+
 
 ###  Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/salahin0ashfi?theme=dark&font=Inter)
