@@ -1,7 +1,5 @@
 <!-- ========================= GitHub Trophies ========================= -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashfiexe&theme=onedark&row=2&column=7&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
+
 
 <h1 align="center">Hi, I'm Salehin Ashfi</h1>
 <h3 align="center">Programmer • Security Researcher • Writer</h3>
@@ -16,9 +14,8 @@
 Nothing flashy to read here.  
 I build, break, fix, and write—sometimes all at once.
 
-- 🌐 Portfolio: https://salehinashfi.rf.gd  
+- 🌐 Portfolio: https://salehinashfi.netlify.app  
 - 📚 Books: https://books2read.com/salehinashfi  
-
 ---
 
 ### Recently Played
@@ -49,25 +46,29 @@ I build, break, fix, and write—sometimes all at once.
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashfiexe&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
+###  Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/salahin0ashfi?theme=dark&font=Inter)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfiexe&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashfiexe&show_icons=true&theme=radical&count_private=false" /></p><p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashfiexe&layout=compact&theme=radical" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashfiexe&theme=radical" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ashfiexe&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfiexe&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
+
 
 ---
 
+
+![Snake animation](https://github.com/ashfiexe/ashfiexe/blob/output/github-contribution-grid-snake.svg)
+ 
 ### Support
 <p align="center">
   <a href="https://ko-fi.com/K3K01SS4QX">
