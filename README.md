@@ -70,13 +70,35 @@ and leave behind tools, scripts, and stories for those curious enough to look.
 </div>
 ---
 
-## 🎵 Recently Played
+<!-- ═══════════════════ SPOTIFY SECTION ═══════════════════ -->
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=lydqloj5trmy0rb04nrr82b84&unique=1" />
-</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1DB954,100:0d1117&height=2&section=header" width="100%"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0d1117&height=60&section=header&text=%F0%9F%8E%A7%20Recently%20Played&fontSize=22&fontColor=1DB954&animation=fadeIn&fontAlignY=70" width="100%"/>
+
+<br/>
+
+<a href="https://open.spotify.com">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=lydqloj5trmy0rb04nrr82b84&unique=1"
+       alt="🎵 Spotify Recently Played"
+       width="430"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Now%20Listening-●%20LIVE-1DB954?style=flat-square&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1DB954,100:0d1117&height=2&section=footer" width="100%"/>
+
+</div>
 
 ## 🌐 Connect
 
