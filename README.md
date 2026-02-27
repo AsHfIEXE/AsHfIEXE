@@ -68,6 +68,7 @@ and leave behind tools, scripts, and stories for those curious enough to look.
   <br><br>
   <img src="https://skillicons.dev/icons?i=arch,kali,vscode,postman,discordjs&perline=10" />
 </div>
+
 ---
 
 <!-- ═══════════════════ SPOTIFY SECTION ═══════════════════ -->
