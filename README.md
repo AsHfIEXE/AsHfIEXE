@@ -68,7 +68,7 @@ I build, break, fix, and write—sometimes all at once.
 
 
 ![Snake animation](https://github.com/ashfiexe/ashfiexe/blob/output/github-contribution-grid-snake.svg)
- 
+
 ### Support
 <p align="center">
   <a href="https://ko-fi.com/K3K01SS4QX">
