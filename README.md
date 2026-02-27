@@ -58,12 +58,16 @@ and leave behind tools, scripts, and stories for those curious enough to look.
 ## 🛠 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,sass&perline=7" /><br/>
-  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,nestjs,react,bootstrap&perline=7" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,oracle&perline=7" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,heroku,linux,perl&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,php,js,bash,powershell,html,css,sass&perline=10" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,nestjs,react,bootstrap,electron,selenium&perline=10" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,oracle&perline=10" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,heroku,linux,redhat&perline=10" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=arch,kali,vscode,postman,discordjs&perline=10" />
 </div>
-
 ---
 
 ## 🎵 Recently Played
