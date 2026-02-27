@@ -1,83 +1,100 @@
+<div align="center">
 
+# Salehin Ashfi
+### Programmer · Security Researcher · Writer
 
-<h1 align="center">Hi, I'm Salehin Ashfi</h1>
-<h3 align="center">Programmer • Security Researcher • Writer</h3>
+*I build, break, fix, and write — sometimes all at once.*
 
-<!-- ========================= GitHub Trophies ========================= -->
+🖤 Code, coffee, and curiosity.
+Security researcher, Python tinkerer, and storyteller.
+I explore the digital world like a puzzle, find vulnerabilities like a detective,
+and leave behind tools, scripts, and stories for those curious enough to look.
 
-<p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ashfiexe&theme=radical&no-frame=true&margin-w=4&titles=Stars,Commits,Issues,PullRequest,Repositories,Experience" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://salehinashfi.netlify.app)
+[![Books](https://img.shields.io/badge/Books-FF6B35?style=for-the-badge&logo=bookstack&logoColor=white)](https://books2read.com/salehinashfi)
+[![Profile Views](https://komarev.com/ghpvc/?username=ashfiexe&label=Profile+Views&color=blueviolet&style=for-the-badge)](https://github.com/ashfiexe)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashfiexe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### About Me
-Nothing flashy to read here.  
-I build, break, fix, and write—sometimes all at once.
-
-- 🌐 Portfolio: https://salehinashfi.netlify.app  
-- 📚 Books: https://books2read.com/salehinashfi  
----
-
-### Recently Played
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=lydqloj5trmy0rb04nrr82b84&unique=1" alt="Spotify Recently Played" />
-</p>
+</div>
 
 ---
 
-### Connect With Me
-<p align="left">
-<a href="https://dev.to/ashfiexe"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40"/></a>
-<a href="https://stackoverflow.com/users/ashfi.ex3"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/></a>
-<a href="https://kaggle.com/androgamerzpro"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/></a>
-<a href="https://fb.com/salehinashfi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
-<a href="https://instagram.com/whos.this_ashfi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
-<a href="https://medium.com/@salahinashfi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40"/></a>
-<a href="https://www.leetcode.com/salahin0ashfi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
-<a href="https://discord.gg/778910511437185024"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/></a>
-</p>
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ashfiexe&theme=radical&no-frame=true&margin-w=8&titles=Stars,Commits,Issues,PullRequest,Repositories,Experience" />
+</div>
 
 ---
 
-### Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,django,docker,express,firebase,flask,gcp,heroku,html,js,linux,mongodb,mysql,nestjs,nginx,nodejs,oracle,perl,postgres,python,react,sass,sqlite,wxwidgets" />
-</p>
+## 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashfiexe&show_icons=true&theme=radical&count_private=false&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashfiexe&layout=compact&theme=radical&hide_border=true" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ashfiexe&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/salahin0ashfi?theme=dark&font=Inter&border=0" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfiexe&theme=react-dark&hide_border=true&area=true" />
+</div>
 
 ---
 
+## 🐍 Contribution Snake
 
-###  Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/salahin0ashfi?theme=dark&font=Inter)
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashfiexe&show_icons=true&theme=radical&count_private=false" /></p><p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashfiexe&layout=compact&theme=radical" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashfiexe&theme=radical" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfiexe&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
+<div align="center">
+  <img src="https://github.com/ashfiexe/ashfiexe/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ---
 
+## 🛠 Languages & Tools
 
-![Snake animation](https://github.com/ashfiexe/ashfiexe/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,sass&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,nestjs,react,bootstrap&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,oracle&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,heroku,linux,perl&perline=7" />
+</div>
 
-### Support
-<p align="center">
+---
+
+## 🎵 Recently Played
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=lydqloj5trmy0rb04nrr82b84&unique=1" />
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ashfiexe)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@salahinashfi)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ashfi.ex3)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/salahin0ashfi)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/androgamerzpro)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/salehinashfi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whos.this_ashfi)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/778910511437185024)
+
+</div>
+
+---
+
+## ☕ Support
+
+<div align="center">
   <a href="https://ko-fi.com/K3K01SS4QX">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" />
   </a>
-</p>
+</div>
