@@ -87,13 +87,13 @@ and leave behind tools, scripts, and stories for those curious enough to look.
 
 <br/>
 
-<details>
-<summary><kbd>🕐 Recently Played</kbd></summary>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:0d1117&height=45&text=%F0%9F%95%90%20Recently%20Played&fontSize=16&fontColor=00dbaf&animation=fadeIn&fontAlignY=75" width="100%"/>
+
 <br/>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=lydqloj5trmy0rb04nrr82b84&unique=1"
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=lydqloj5trmy0rb04nrr82b84&unique=1&count=5"
      alt="Recently Played"
      width="430"/>
-</details>
 
 <br/>
 
