@@ -75,29 +75,29 @@ and leave behind tools, scripts, and stories for those curious enough to look.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1DB954,100:0d1117&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00dbaf,100:0d1117&height=2" width="100%"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0d1117&height=60&section=header&text=%F0%9F%8E%A7%20Recently%20Played&fontSize=22&fontColor=1DB954&animation=fadeIn&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:0d1117&height=55&text=%F0%9F%8E%A7%20Now%20Playing&fontSize=20&fontColor=00dbaf&animation=fadeIn&fontAlignY=72" width="100%"/>
 
 <br/>
 
-<a href="https://open.spotify.com">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=lydqloj5trmy0rb04nrr82b84&unique=1"
-       alt="🎵 Spotify Recently Played"
-       width="430"/>
-</a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lydqloj5trmy0rb04nrr82b84&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true&bar_color=00dbaf)](https://spotify-github-profile.kittinanx.com/api/view?uid=lydqloj5trmy0rb04nrr82b84&redirect=true)
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Now%20Listening-●%20LIVE-1DB954?style=flat-square&logoColor=white"/>
+<details>
+<summary><kbd>🕐 Recently Played</kbd></summary>
+<br/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=lydqloj5trmy0rb04nrr82b84&unique=1"
+     alt="Recently Played"
+     width="430"/>
+</details>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1DB954,100:0d1117&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00dbaf,100:0d1117&height=2" width="100%"/>
 
 </div>
 
