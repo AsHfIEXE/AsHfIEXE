@@ -10,7 +10,7 @@ Security researcher, Python tinkerer, and storyteller.
 I explore the digital world like a puzzle, find vulnerabilities like a detective,
 and leave behind tools, scripts, and stories for those curious enough to look.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://salehinashfi.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://salehinashfi.vercel.app])
 [![Books](https://img.shields.io/badge/Books-FF6B35?style=for-the-badge&logo=bookstack&logoColor=white)](https://books2read.com/salehinashfi)
 [![Profile Views](https://komarev.com/ghpvc/?username=ashfiexe&label=Profile+Views&color=blueviolet&style=for-the-badge)](https://github.com/ashfiexe)
 
