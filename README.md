@@ -91,7 +91,7 @@ I’m a security researcher, Python tinkerer, and storyteller. I explore the dig
 
 <br />
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=lydqloj5trmy0rb04nrr82b84)
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=lydqloj5trmy0rb04nrr82b84&footer=wave)](https://open.spotify.com/user/lydqloj5trmy0rb04nrr82b84)
 
 <br />
 
