@@ -1,20 +1,67 @@
 <div align="center">
 
-# Salehin Ashfi
+<img src="./assets/profile-header.svg" alt="Salehin Ashfi — programmer, security researcher, writer. Build · Break · Fix · Write." width="100%" />
+
+<br />
 
 ### Programmer · Security Researcher · Writer
 
-I build tools, explore security, and write stories. I’m curious about how systems work—and how to make them better.
+*I build, break, fix, and write — sometimes all at once.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://salehinashfi.vercel.app)
-[![Books](https://img.shields.io/badge/Books-FF6B35?style=for-the-badge&logo=bookstack&logoColor=white)](https://books2read.com/salehinashfi)
-[![Profile views](https://komarev.com/ghpvc/?username=ashfiexe&label=Profile+views&color=blueviolet&style=for-the-badge)](https://github.com/ashfiexe)
+🖤 Code, coffee, and curiosity.
+
+I’m a security researcher, Python tinkerer, and storyteller. I explore the digital world like a puzzle, look for weaknesses like a detective, and leave behind tools, scripts, and stories for the curious.
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-101820?style=for-the-badge&logo=vercel&logoColor=00DBAF)](https://salehinashfi.vercel.app)
+[![Books](https://img.shields.io/badge/BOOKS-101820?style=for-the-badge&logo=bookstack&logoColor=FFB86B)](https://books2read.com/salehinashfi)
+[![Profile Views](https://komarev.com/ghpvc/?username=ashfiexe&label=PROFILE+VIEWS&color=00a889&style=for-the-badge)](https://github.com/ashfiexe)
 
 </div>
 
 ---
 
-## Tech I use
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ashfiexe&theme=onedark&no-frame=true&margin-w=8&titles=Stars,Commits,Issues,PullRequest,Repositories,Experience" alt="GitHub profile trophies for stars, commits, issues, pull requests, repositories, and experience" />
+</div>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashfiexe&show_icons=true&count_private=false&hide_border=true&bg_color=0D1519&title_color=00DBAF&icon_color=FFB86B&text_color=C9D4D0" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashfiexe&layout=compact&hide_border=true&bg_color=0D1519&title_color=00DBAF&text_color=C9D4D0" height="180" alt="Most-used programming languages on GitHub" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ashfiexe&theme=dark&background=0D1519&border=20343A&stroke=20343A&ring=00DBAF&fire=FFB86B&currStreakNum=F0F6F4&sideNums=F0F6F4&currStreakLabel=00DBAF&sideLabels=A9B8B7&dates=A9B8B7&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/salahin0ashfi?theme=dark&font=Inter&border=0" alt="LeetCode activity for salahin0ashfi" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfiexe&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution activity over time" />
+</div>
+
+---
+
+## 🐍 Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashfiexe/ashfiexe/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashfiexe/ashfiexe/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ashfiexe/ashfiexe/output/github-contribution-grid-snake.svg" alt="Animated snake moving across my GitHub contribution graph" />
+  </picture>
+</div>
+
+---
+
+## 🛠 Languages & tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,php,js,bash,powershell,html,css,sass&perline=10" alt="Languages: Python, C, C++, PHP, JavaScript, Bash, PowerShell, HTML, CSS, and Sass" />
@@ -30,36 +77,37 @@ I build tools, explore security, and write stories. I’m curious about how syst
 
 ---
 
-## GitHub activity
+## 🎧 Now playing
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashfiexe&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub profile statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfiexe&layout=compact&theme=radical&hide_border=true" height="180" alt="Most used programming languages on GitHub" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=ashfiexe&theme=radical&hide_border=true" alt="GitHub contribution streak" />
-</div>
 
-### Contribution graph
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00dbaf,100:0d1117&height=2" width="100%" alt="Mint accent divider" />
 
-<div align="center">
-  <img src="https://github.com/ashfiexe/ashfiexe/blob/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving across my GitHub contribution graph" />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:0d1117&height=55&text=%F0%9F%8E%A7%20NOW%20PLAYING&fontSize=20&fontColor=00dbaf&animation=fadeIn&fontAlignY=72" width="100%" alt="Now playing" />
+
+<br />
+
+[![Spotify profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lydqloj5trmy0rb04nrr82b84&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true&bar_color=00dbaf)](https://spotify-github-profile.kittinanx.com/api/view?uid=lydqloj5trmy0rb04nrr82b84&redirect=true)
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:0d1117&height=45&text=%F0%9F%95%90%20RECENTLY%20PLAYED&fontSize=16&fontColor=00dbaf&animation=fadeIn&fontAlignY=75" width="100%" alt="Recently played" />
+
+<br />
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=lydqloj5trmy0rb04nrr82b84&unique=1&count=5" alt="My five most recently played Spotify tracks" width="430" />
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00dbaf,100:0d1117&height=2" width="100%" alt="Mint accent divider" />
+
 </div>
 
 ---
 
-## On repeat
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=lydqloj5trmy0rb04nrr82b84&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lydqloj5trmy0rb04nrr82b84&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true&bar_color=00dbaf" alt="My Spotify profile and currently playing track" />
-  </a>
-  <br /><br />
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=lydqloj5trmy0rb04nrr82b84&unique=1&count=5" width="430" alt="My five most recently played Spotify tracks" />
-</div>
-
----
-
-## Find me online
+## 🌐 Connect
 
 <div align="center">
 
@@ -74,7 +122,9 @@ I build tools, explore security, and write stories. I’m curious about how syst
 
 </div>
 
-## Support my work
+---
+
+## ☕ Support
 
 <div align="center">
   <a href="https://ko-fi.com/K3K01SS4QX">

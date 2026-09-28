@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Salehin Ashfi — Build, Break, Fix, Write</title>
+  <desc id="desc">A dark terminal-inspired banner with mint and amber accents, subtle grid lines, and a command prompt motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1115" />
+      <stop offset="0.6" stop-color="#101c21" />
+      <stop offset="1" stop-color="#10131b" />
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00dbaf" stop-opacity="0" />
+      <stop offset="0.55" stop-color="#00dbaf" stop-opacity="0.75" />
+      <stop offset="1" stop-color="#ffb86b" stop-opacity="0.6" />
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8cebd3" stroke-opacity="0.055" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)" />
+  <rect width="1200" height="300" rx="22" fill="url(#grid)" />
+  <path d="M790 0H1200V300H940L790 0Z" fill="#00dbaf" fill-opacity="0.035" />
+  <path d="M0 262H1200" stroke="url(#beam)" stroke-width="2" />
+  <path d="M846 46h220l24 24-24 24H846l-24-24z" fill="#111c20" stroke="#00dbaf" stroke-opacity="0.38" />
+  <circle cx="852" cy="70" r="4" fill="#00dbaf" />
+  <text x="869" y="75" fill="#a7c7bf" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="2">PROFILE :: ASHFI.EXE</text>
+  <text x="82" y="139" fill="#f0f6f4" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="1">SALEHIN ASHFI</text>
+  <text x="85" y="183" fill="#00dbaf" font-family="Consolas, 'Courier New', monospace" font-size="19" letter-spacing="3">&gt; BUILD  /  BREAK  /  FIX  /  WRITE</text>
+  <text x="85" y="222" fill="#a9b8b7" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="1.4">SOFTWARE · SECURITY · STORIES</text>
+  <path d="M85 240h154" stroke="#ffb86b" stroke-width="2" stroke-linecap="round" />
+  <circle cx="1090" cy="194" r="42" fill="none" stroke="#00dbaf" stroke-opacity="0.22" />
+  <circle cx="1090" cy="194" r="27" fill="none" stroke="#ffb86b" stroke-opacity="0.42" />
+  <circle cx="1090" cy="194" r="5" fill="#00dbaf" />
+  <path d="M1090 152v-13m0 110v-13m42-42h13m-110 0h13" stroke="#a9b8b7" stroke-opacity="0.5" />
+  <rect x="22" y="22" width="1156" height="256" rx="16" fill="none" stroke="#b3d1c9" stroke-opacity="0.12" />
+</svg>
