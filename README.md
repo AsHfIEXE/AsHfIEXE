@@ -89,7 +89,7 @@ I’m a security researcher, Python tinkerer, and storyteller. I explore the dig
 
 <br />
 
-[![Spotify profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31licxthcwaamzq6stcirpzbwbma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31licxthcwaamzq6stcirpzbwbma&redirect=true)
+[![Spotify profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31licxthcwaamzq6stcirpzbwbma&cover_image=true&theme=default&show_offline=false&background_color=0D1519&border_radius=14&bar_color=00DBAF&bar_color_cover=false&interchange=false&profanity=false&hide_remaster=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31licxthcwaamzq6stcirpzbwbma&redirect=true)
 
 <br />
 
