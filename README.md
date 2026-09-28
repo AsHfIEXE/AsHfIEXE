@@ -77,19 +77,13 @@ I’m a security researcher, Python tinkerer, and storyteller. I explore the dig
 
 ---
 
-## 🎧 Now playing
+## 🎧 Listening activity
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00dbaf,100:0d1117&height=2" width="100%" alt="Mint accent divider" />
 
 <br />
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:0d1117&height=55&text=%F0%9F%8E%A7%20NOW%20PLAYING&fontSize=20&fontColor=00dbaf&animation=fadeIn&fontAlignY=72" width="100%" alt="Now playing" />
-
-<br />
-
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31licxthcwaamzq6stcirpzbwbma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)
 
 <br />
 
