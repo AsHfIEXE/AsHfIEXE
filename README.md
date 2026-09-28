@@ -44,7 +44,7 @@ I’m a security researcher, Python tinkerer, and storyteller. I explore the dig
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfiexe&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution activity over time" />
+  <img src="./assets/activity-graph.svg" alt="GitHub contributions by day over the past year" width="100%" />
 </div>
 
 ---

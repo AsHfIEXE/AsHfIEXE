@@ -1,0 +1,40 @@
+name: Update Profile Activity Graph
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/scripts/generate_activity_graph.py"
+      - ".github/workflows/activity-graph.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution graph
+        run: python .github/scripts/generate_activity_graph.py
+        env:
+          GITHUB_USERNAME: ashfiexe
+          GITHUB_TOKEN: ${{ github.token }}
+
+      - name: Commit updated graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-graph.svg
+          if git diff --cached --quiet; then
+            echo "Activity graph is already up to date."
+            exit 0
+          fi
+          git commit -m "Update profile activity graph"
+          git push
