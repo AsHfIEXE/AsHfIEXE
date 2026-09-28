@@ -89,7 +89,7 @@ I’m a security researcher, Python tinkerer, and storyteller. I explore the dig
 
 <br />
 
-[![Spotify profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lydqloj5trmy0rb04nrr82b84&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true&bar_color=00dbaf)](https://spotify-github-profile.kittinanx.com/api/view?uid=lydqloj5trmy0rb04nrr82b84&redirect=true)
+[![Spotify profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31licxthcwaamzq6stcirpzbwbma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31licxthcwaamzq6stcirpzbwbma&redirect=true)
 
 <br />
 
@@ -97,7 +97,7 @@ I’m a security researcher, Python tinkerer, and storyteller. I explore the dig
 
 <br />
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=lydqloj5trmy0rb04nrr82b84&unique=1&count=5" alt="My five most recently played Spotify tracks" width="430" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31licxthcwaamzq6stcirpzbwbma&unique=1&count=5" alt="My five most recently played Spotify tracks" width="430" />
 
 <br />
 
