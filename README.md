@@ -97,7 +97,7 @@ I’m a security researcher, Python tinkerer, and storyteller. I explore the dig
 
 <br />
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31licxthcwaamzq6stcirpzbwbma&unique=1&count=5" alt="My five most recently played Spotify tracks" width="430" />
+<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31licxthcwaamzq6stcirpzbwbma&theme=dark&count=5&bg_color=0D1519&text_color=C9D4D0&artist_color=A9B8B7&meta_color=80918F&accent_color=00DBAF&logo_color=1DB954&width=560&radius=14&unique=1&time=1&art=1&header=1&profile=header&username=display&avatar=1&now_playing=1&progress=1&explicit=0" alt="Recently played Spotify tracks" width="560" />
 
 <br />
 
