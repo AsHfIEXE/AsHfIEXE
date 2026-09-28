@@ -31,8 +31,8 @@ I’m a security researcher, Python tinkerer, and storyteller. I explore the dig
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashfiexe&show_icons=true&count_private=false&hide_border=true&bg_color=0D1519&title_color=00DBAF&icon_color=FFB86B&text_color=C9D4D0" height="180" alt="GitHub statistics" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashfiexe&layout=compact&hide_border=true&bg_color=0D1519&title_color=00DBAF&text_color=C9D4D0" height="180" alt="Most-used programming languages on GitHub" />
+  <img src="./assets/github-stats.svg" height="180" alt="GitHub statistics" />
+  <img src="./assets/top-langs.svg" height="180" alt="Most-used programming languages on GitHub" />
 </div>
 
 <div align="center">

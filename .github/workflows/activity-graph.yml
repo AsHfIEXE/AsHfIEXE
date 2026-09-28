@@ -27,11 +27,29 @@ jobs:
           GITHUB_USERNAME: ashfiexe
           GITHUB_TOKEN: ${{ github.token }}
 
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=ashfiexe&show_icons=true&count_private=false&hide_border=true&bg_color=0D1519&title_color=00DBAF&icon_color=FFB86B&text_color=C9D4D0
+          path: assets/github-stats.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=ashfiexe&layout=compact&hide_border=true&bg_color=0D1519&title_color=00DBAF&text_color=C9D4D0
+          path: assets/top-langs.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
       - name: Commit updated graph
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/activity-graph.svg
+          git add assets/activity-graph.svg assets/github-stats.svg assets/top-langs.svg
           if git diff --cached --quiet; then
             echo "Activity graph is already up to date."
             exit 0
